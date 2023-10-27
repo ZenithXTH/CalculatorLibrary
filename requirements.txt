@@ -176,7 +176,7 @@ soupsieve==2.4.1
 SQLAlchemy==1.4.46
 stack-data==0.6.2
 starlette==0.27.0
-tabulate==0.0.0
+tabulate
 terminado==0.17.1
 text-unidecode==1.3
 tinycss2==1.2.1
