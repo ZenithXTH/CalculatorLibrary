@@ -17,4 +17,4 @@ def multiply(first_term, second_term):
 
 
 def division(dividend, divisor):
-    return  dividen / divisor
+    return dividend / divisor
