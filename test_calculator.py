@@ -4,7 +4,6 @@ Unit tests for the calculator library
 
 import calculator
 
-
 class TestCalculator:
 
     def test_addition(self):
@@ -17,4 +16,4 @@ class TestCalculator:
         assert 100 == calculator.multiply(10, 10)
     
     def test_division(self):
-        assert 8 == calculator.divide(80, 10)
+        assert 8 == calculator.division(80, 10)
